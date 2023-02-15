@@ -6,7 +6,7 @@
 - 📚 Estudando Java | Spring |
 - 🎒 Cursando Técnico em Desenvolvimento de Sistemas.
 
-<div align="center>
+<div align="center">
   <a href="https://github.com/Kauan-Ts11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauan-Ts11&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-Ts11&layout=compact&langs_count=7&theme=dark" />
