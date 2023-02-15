@@ -6,6 +6,10 @@
 - 📚 Estudando Java | Spring |
 - 🎒 Cursando Técnico em Desenvolvimento de Sistemas.
 
+#
+<h3>Estátisticas</3>
+<br><br>
+
 <div align="center">
   <a href="https://github.com/Kauan-Ts11">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kauan-Ts11&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -22,4 +26,5 @@
   <img alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+  
 #
