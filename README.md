@@ -4,7 +4,7 @@
 
 - 💻 Desenvolvedor Back-End.
 - 📚 Estudando Java | Spring |
-- 🎒 Cursando Técnico em Desenvolvimento de Sistemas.
+- 🎒 Técnico em Desenvolvimento de Sistemas.
 
 #
 <h3>Estátisticas</3>
