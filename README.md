@@ -29,7 +29,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=00599C&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/php-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![NodeJs](https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=spring&logoColor=107C10&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 #### Base de Dados:
