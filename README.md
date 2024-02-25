@@ -7,7 +7,7 @@
 #### - 💻 Desenvolvedor Back End.
 #### - 📚 Estudando Java | Spring |
 #### - ✅ Técnico em Desenvolvimento de Sistemas
-#### - 🎒 Cursando Técnologo em Análise e Desenvolvimento de Sistemas.
+#### - 🎒 Cursando Tecnologo em Análise e Desenvolvimento de Sistemas.
 
 &nbsp;
  
