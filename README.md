@@ -34,7 +34,7 @@
 
 #### Base de Dados:
 
-![MICROSOFT_SQL SERVER](https://img.shields.io/badge/sql_server-0D1117?style=for-the-badge&logo=microsoft-sql-serXver&labelColor=0D1117)&nbsp;
+![MICROSOFT_SQL SERVER](https://img.shields.io/badge/sql_server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![MONGO DB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
