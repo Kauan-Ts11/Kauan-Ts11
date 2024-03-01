@@ -67,7 +67,7 @@
 </div>&nbsp;&nbsp;
 
 ## Estatisticas:
-<div align="center">  
+<div align="center" display="inline">  
  <img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Kauan-Ts11&show_icons=true&count_private=true&hide_border=true&title_color=6B0AFA&icon_color=6B0AFA&text_color=c9d1d9&bg_color=0d1117" alt="Kauan Gabriel github stats" /> 
   <img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-Ts11&layout=compact&hide_border=true&title_color=6B0AFA&text_color=6B0AFA&bg_color=0d1117" />
 </div>
