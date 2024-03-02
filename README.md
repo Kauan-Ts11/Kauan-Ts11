@@ -68,8 +68,8 @@
 
 ## Estatisticas:
 <div align="center" display="inline">  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauan-Ts11&show_icons=true&count_private=true&hide_border=true&title_color=6B0AFA&icon_color=6B0AFA&text_color=c9d1d9&bg_color=0d1117" alt="Kauan Gabriel github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-Ts11&layout=compact&hide_border=true&title_color=6B0AFA&text_color=6B0AFA&bg_color=0d1117" />
+ <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Kauan-Ts11&show_icons=true&count_private=true&hide_border=true&title_color=6B0AFA&icon_color=6B0AFA&text_color=c9d1d9&bg_color=0d1117" alt="Kauan Gabriel github stats" /> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-Ts11&layout=compact&hide_border=true&title_color=6B0AFA&text_color=6B0AFA&bg_color=0d1117" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B0AFA&height=120&section=footer"/>
