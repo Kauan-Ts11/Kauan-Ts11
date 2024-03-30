@@ -57,9 +57,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0D1117)&nbsp;
 ![Xampp](https://img.shields.io/badge/Xampp-0D1117?style=for-the-badge&logo=xampp&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
-
 ## Contato:
 
 <div> 
@@ -68,7 +65,7 @@
 
 ## Estatisticas:
 <div align="center" display="inline">  
- <img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=kauan-ts11&show_icons=true&count_private=true&hide_border=true&title_color=6B0AFA&icon_color=6B0AFA&text_color=c9d1d9&bg_color=0d1117" alt="Kauan Gabriel github stats" /> 
+ <img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Kauan-Ts11&show_icons=true&count_private=true&hide_border=true&title_color=6B0AFA&icon_color=6B0AFA&text_color=c9d1d9&bg_color=0d1117" alt="Kauan Gabriel github stats" /> 
  <img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-Ts11&layout=compact&hide_border=true&title_color=6B0AFA&text_color=6B0AFA&bg_color=0d1117" />
 </div>
 
